@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchsrocess",
+        "uuid": 6730911,
+        "checksum": "3hswy6"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
